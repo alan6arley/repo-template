@@ -1,9 +1,6 @@
 # Project Name
 > Short text about what your product does.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=alan6arley&show_icons=true&theme=gotham)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alan6arley&theme=blue-green)
-
 ![](Result.png)
 
 # GitHub Best Practices
@@ -184,7 +181,7 @@ Having a good guideline for creating commits and sticking to it makes working wi
 * Keep comments relevant as your code evolves.
 
 <a name="licensing"></a>
-## 10. Licensing
+## 3. Licensing
 ![Licensing](/images/licensing.png)
 
 Make sure you use resources that you have the rights to use. If you use libraries, remember to look for MIT, Apache or BSD but if you modify them, then take a look at the license details. Copyrighted images and videos may cause legal problems.
@@ -194,6 +191,8 @@ Make sure you use resources that you have the rights to use. If you use librarie
 ## Useful quotes
 
 > I have certain mantras that I use to guide my programming. They generally revolve around this theme: "Thinking is hard, and I'm not very good at it; every block of code should be simple and obvious, because if it makes me think, I'll probably screw it up and break something." - [Remy Porter](http://thedailywtf.com/articles/the-refactoring)
+
+---
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
