@@ -1,7 +1,7 @@
 # Project Name
 > Short text about what your product does.
 
-![](Result.png)
+![](/images/Result.png)
 
 # GitHub Best Practices
 
