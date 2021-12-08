@@ -1,4 +1,4 @@
-# About Project
+# Project Name
 > Short text about what your product does.
 
 ![](/images/Result.png)
